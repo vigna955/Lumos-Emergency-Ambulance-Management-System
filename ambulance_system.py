@@ -34,3 +34,9 @@ book_ambulance("Patient 2", "Coimbatore")
 track_ambulance("AMB001")
 notify_hospital("City Hospital")
 # Updated during Git and GitHub workflow demonstration
+def calculate_response_analytics():
+    """Feature: Admin Analytics Engine for Sprint 1 (Added by Avantika R)"""
+    avg_response_time = 6.4
+    active_dispatches = 12
+    print(f"[ANALYTICS] Avg Response Time: {avg_response_time} mins | Active: {active_dispatches}")
+    return {"avg_response_time": avg_response_time, "active_dispatches": active_dispatches}
