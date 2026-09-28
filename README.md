@@ -51,10 +51,10 @@ Lumos-Emergency-Ambulance-Management-System/
 
 | S.No. | Name           | Roll Number      | Role                                        |
 | ----- | -------------- | ---------------- | ------------------------------------------- |
-| 1     | Avantika R     | CB.EN.U4CCE24009 | Repository Owner & Issue Management         |
-| 2     | Naina M        | CB.EN.U4CCE24034 | Project Modification & Conflict Contributor |
-| 3     | Vigna Mrudha T | CB.EN.U4CCE24057 | GitHub Web Edit & Conflict Resolution       |
-| 4     | Yuthikhaa V    | CB.EN.U4CCE24062 | Feature Branch Development & Merging        |
+| 1     | Vigna Mrudha T | CB.EN.U4CCE24058 | Repository Owner & Issue Management         |
+| 2     | Yuthikhaa V    | CB.EN.U4CCE24062 | Project Modification & Conflict Contributor |
+| 3     | Naina M        | CB.EN.U4CCE24034 | GitHub Web Edit & Conflict Resolution       |
+| 4     | Avantika R     | CB.EN.U4CCE24009 | Feature Branch Development & Merging        |
 
 ## Technologies Used
 
