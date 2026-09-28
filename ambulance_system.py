@@ -33,3 +33,4 @@ def notify_hospital(hospital):
 book_ambulance("Patient 1", "Coimbatore")
 track_ambulance("AMB001")
 notify_hospital("City Hospital")
+# Updated during Git and GitHub workflow demonstration

@@ -92,3 +92,13 @@ https://github.com/vigna955/Lumos-Emergency-Ambulance-Management-System
 **Team Lumos**
 
 **Project:** Lumos Emergency Ambulance Management System
+
+## Project Development
+
+The Emergency Ambulance Management System aims to simplify
+ambulance booking, tracking, and hospital coordination.
+
+## Future Improvements
+
+- Improve the user interface.
+- Add additional emergency management features.
