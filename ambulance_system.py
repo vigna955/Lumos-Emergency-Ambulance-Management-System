@@ -30,7 +30,7 @@ def notify_hospital(hospital):
     else:
         print("Hospital not found")
 
-book_ambulance("Patient 1", "Coimbatore")
+book_ambulance("Patient 2", "Coimbatore")
 track_ambulance("AMB001")
 notify_hospital("City Hospital")
 # Updated during Git and GitHub workflow demonstration
