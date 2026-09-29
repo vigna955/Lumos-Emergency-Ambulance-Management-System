@@ -40,3 +40,11 @@ def calculate_response_analytics():
     active_dispatches = 12
     print(f"[ANALYTICS] Avg Response Time: {avg_response_time} mins | Active: {active_dispatches}")
     return {"avg_response_time": avg_response_time, "active_dispatches": active_dispatches}
+
+def delay_alert(ambulance_id, delay_minutes):
+    if delay_minutes > 10:
+        print(f"Delay alert triggered for {ambulance_id}")
+    else:
+        print(f"Ambulance {ambulance_id} is on schedule")
+
+delay_alert("AMB001", 15)
