@@ -48,3 +48,5 @@ def delay_alert(ambulance_id, delay_minutes):
         print(f"Ambulance {ambulance_id} is on schedule")
 
 delay_alert("AMB001", 15)
+
+# B: Ambulance tracking feature updated
