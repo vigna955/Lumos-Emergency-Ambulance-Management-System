@@ -1,6 +1,6 @@
 ambulances = {
     "AMB001": "Available",
-    "AMB002": "Available"
+    "AMB002": " Not Available"
 }
 
 hospitals = [
